@@ -29,6 +29,7 @@ def now_serving(deli_line)
 end
 
 i = 0
+
 def take_a_number_oldschool()
   i += 1
   puts "You are number #{i}}."
