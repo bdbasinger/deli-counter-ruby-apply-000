@@ -30,7 +30,8 @@ end
 
 def take_a_number_oldschool()
   i = 0
-  puts "You are number #{++i}."
+  i += 1
+  puts "You are number #{i}}."
 end
 
 
