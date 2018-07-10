@@ -1,5 +1,5 @@
 katz_deli = []
-i = 0
+
 
 def line(deli_line)
   if deli_line.empty?
