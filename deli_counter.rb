@@ -36,8 +36,8 @@ end
 
 
 def take_a_number_oldschool()
-  i += 1
-  puts "You are number #{i}."
+  b += 1
+  puts "You are number #{b}."
 end
 
 
