@@ -56,15 +56,3 @@ end
 
 
 
-
-
-katz_deli = []
-
-
-def line(deli_line)
-  
-end
-
-
-def 
-
