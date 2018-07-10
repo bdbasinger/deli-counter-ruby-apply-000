@@ -28,6 +28,12 @@ def now_serving(deli_line)
   end
 end
 
+def take_a_number_oldschool()
+  i = 0
+  puts "You are number #{++i}."
+end
+
+
 
 
 
