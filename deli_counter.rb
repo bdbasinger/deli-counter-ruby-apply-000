@@ -1,4 +1,5 @@
 katz_deli = []
+i = 0
 
 def line(deli_line)
   if deli_line.empty?
@@ -28,7 +29,9 @@ def now_serving(deli_line)
   end
 end
 
-i = 0
+
+
+
 
 def take_a_number_oldschool()
   puts "You are number #{i}."
