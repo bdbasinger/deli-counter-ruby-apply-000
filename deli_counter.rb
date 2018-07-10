@@ -34,7 +34,8 @@ def take_a_number_oldschool()
 end
 
 
-
+take_a_number_oldschool()
+take_a_number_oldschool()
 
 
 
