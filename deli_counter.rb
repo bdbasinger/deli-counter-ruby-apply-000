@@ -34,7 +34,7 @@ end
 
 
 
-
+b = 1
 def take_a_number_oldschool()
   b += 1
   puts "You are number #{b}."
